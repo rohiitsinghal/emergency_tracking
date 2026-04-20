@@ -1,1 +1,1 @@
-This is a emergency traching services app
+This is a emergency tracking services app
